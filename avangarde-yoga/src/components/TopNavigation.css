@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav p {
+    margin: 2vw;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+nav p:hover {
+    border-top: 3px solid orange;
+}
+
+.links {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.logo img {
+    cursor: pointer;
+}
