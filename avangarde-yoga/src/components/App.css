@@ -45,3 +45,8 @@ body {
 .test {
     color: royalblue;
 }
+
+.test2 {
+    color: royalblue;
+    margin: 0;
+}
