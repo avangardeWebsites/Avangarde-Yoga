@@ -9,8 +9,18 @@ nav p {
     cursor: pointer;
 }
 
-nav p:hover {
-    border-top: 3px solid orange;
+
+nav p:hover:after {
+    background-color: orange;
+}
+
+nav p:after {
+    content: "";
+    width: 100%;
+    height: 2px;
+    background-color: transparent;
+    display: block;
+    transition: .15s;
 }
 
 .links {
