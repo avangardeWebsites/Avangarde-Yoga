@@ -19,4 +19,4 @@ Represantative site.
 
 https://avangardewebsites.github.io/Avangarde-Yoga/
 
-![project image](https://i.imgur.com/8W96TVz)
+![project image](https://i.imgur.com/9vRbBZb.png)
