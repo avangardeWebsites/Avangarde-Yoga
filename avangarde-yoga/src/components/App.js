@@ -1,15 +1,17 @@
 import React, { Component } from 'react';
 import './App.css';
 import TopNavigation from './TopNavigation.js';
-import AboutUs from './AboutUs';
+import Intro from './Intro';
 import TestAnimation from './TestAnimation';
+import AboutUs from './AboutUs';
 
 function App() {
   return (
       <div>
         <TopNavigation />
-        <AboutUs />
+        <Intro />
         <TestAnimation />
+        <AboutUs />
       </div>  
   );
 }

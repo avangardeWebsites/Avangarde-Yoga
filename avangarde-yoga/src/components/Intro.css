@@ -1,0 +1,46 @@
+section {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5vw;
+    background: #f9f9fb;
+}
+
+section .Intro {
+    margin-top: 5vw;
+}
+
+.Intro {
+    width: 45%;
+}
+
+.Intro h1 {
+    color: #262626;
+    font-weight: bold;
+    font-size: 4vw;
+    margin-bottom: 0;
+}
+
+.Intro p {
+    color: #262626;
+    font-weight: 300;
+    font-size: 1.3vw;
+    line-height: 2vw;
+}
+
+.Intro button {
+        width: 15vw;
+    height: 4vw;
+    box-shadow: 0 2px 5px rgb(0 0 0 / 50%);
+    background-color: #ff6033;
+    color: #fff;
+    font-size: 1.3vw;
+    border: none;
+}
+
+.strawbarry {
+    display: flex;
+}
+
+.strawbarry img {
+    width: 30vw;
+}
